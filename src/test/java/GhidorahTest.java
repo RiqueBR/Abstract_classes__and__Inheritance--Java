@@ -28,8 +28,20 @@ public class GhidorahTest {
     }
 
     @Test
+    public void canSetHealthValue(){
+        ghidorah.setHealthValue(150);
+        assertEquals(150, ghidorah.getHealthValue());
+    }
+
+    @Test
     public void canGetAttackValue() {
         assertEquals(150, ghidorah.getAttackValue());
+    }
+
+    @Test
+    public void canSetAttackValue() {
+        ghidorah.setAttackValue(180);
+        assertEquals(180, ghidorah.getAttackValue());
     }
 
     @Test

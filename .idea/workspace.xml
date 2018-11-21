@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb77d8d1-b305-4f96-8a0d-90ab9eec986b" name="Default Changelist" comment="" />
+    <list default="true" id="fb77d8d1-b305-4f96-8a0d-90ab9eec986b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Army.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Army.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ghidorah.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ghidorah.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Godzilla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Godzilla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IDamage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IDamage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Kaiju.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kaiju.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Marine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Marine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ArmyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArmyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GhidorahTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GhidorahTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GodzillaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GodzillaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MarineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MarineTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,24 +33,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1667" />
+          <entry key="java" value="1955" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1667" />
+          <entry key="JAVA" value="1955" />
           <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="22" />
+          <entry key="java" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="22" />
+          <entry key="JAVA" value="29" />
         </counts>
       </usages-collector>
     </session>
@@ -47,131 +60,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Army.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#83#84#0" expanded="true" />
                 <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/IAttack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/IDamage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/GodzillaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-301">
-              <caret line="11" column="70" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
-                <element signature="e#708#709#0" expanded="true" />
-                <element signature="e#1062#1063#0" expanded="true" />
-                <element signature="e#1092#1093#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/MarineTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Godzilla.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Ghidorah.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="5" />
-              <folding>
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ArmyTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="31" selection-start-line="31" selection-start-column="2" selection-end-line="35" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/GhidorahTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#652#653#0" expanded="true" />
-                <element signature="e#712#713#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -180,15 +73,149 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Marine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="32" selection-start-line="32" selection-end-line="34" selection-end-column="5" />
               <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#695#696#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#772#773#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Kaiju.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="42" selection-start-line="42" selection-end-line="44" selection-end-column="5" />
+              <folding>
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#803#804#0" expanded="true" />
+                <element signature="e#854#855#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
+                <element signature="e#845#846#0" expanded="true" />
+                <element signature="e#892#893#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MarineTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="35" selection-start-line="35" selection-start-column="2" selection-end-line="39" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Godzilla.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding>
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ghidorah.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ArmyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="36" selection-start-line="36" selection-start-column="2" selection-end-line="40" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/GodzillaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="46" selection-start-line="46" selection-start-column="2" selection-end-line="50" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/GhidorahTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -204,22 +231,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/GhidorahTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/IDamage.java" />
         <option value="$PROJECT_DIR$/src/main/java/IAttack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IDamage.java" />
         <option value="$PROJECT_DIR$/src/main/java/Kaiju.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Army.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Ghidorah.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ArmyTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/GodzillaTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MarineTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Godzilla.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ghidorah.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Army.java" />
         <option value="$PROJECT_DIR$/src/main/java/Marine.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MarineTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/GodzillaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ArmyTest.java" />
       </list>
     </option>
   </component>
@@ -249,6 +279,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -324,41 +355,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArmyTest.canAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArmyTest.canGetAnAttackValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Inheritance_and_polymorphism_kaiju" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ArmyTest" />
-      <option name="METHOD_NAME" value="canAttack" />
+      <option name="METHOD_NAME" value="canGetAnAttackValue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GhidorahTest.canAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArmyTest.canSetHealthValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Inheritance_and_polymorphism_kaiju" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GhidorahTest" />
-      <option name="METHOD_NAME" value="canAttack" />
+      <option name="MAIN_CLASS_NAME" value="ArmyTest" />
+      <option name="METHOD_NAME" value="canSetHealthValue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GodzillaTest.canAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Inheritance_and_polymorphism_kaiju" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="GodzillaTest" />
-      <option name="METHOD_NAME" value="canAttack" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MarineTest.canAttack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MarineTest.canGetAnAttackValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Inheritance_and_polymorphism_kaiju" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MarineTest" />
-      <option name="METHOD_NAME" value="canAttack" />
+      <option name="METHOD_NAME" value="canGetAnAttackValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarineTest.canSetHealthValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Inheritance_and_polymorphism_kaiju" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MarineTest" />
+      <option name="METHOD_NAME" value="canSetHealthValue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -366,18 +397,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.All in Inheritance_and_polymorphism_kaiju" />
-      <item itemvalue="JUnit.ArmyTest.canAttack" />
-      <item itemvalue="JUnit.MarineTest.canAttack" />
-      <item itemvalue="JUnit.GodzillaTest.canAttack" />
-      <item itemvalue="JUnit.GhidorahTest.canAttack" />
+      <item itemvalue="JUnit.ArmyTest.canSetHealthValue" />
+      <item itemvalue="JUnit.MarineTest.canSetHealthValue" />
+      <item itemvalue="JUnit.MarineTest.canGetAnAttackValue" />
+      <item itemvalue="JUnit.ArmyTest.canGetAnAttackValue" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.All in Inheritance_and_polymorphism_kaiju" />
-        <item itemvalue="JUnit.GhidorahTest.canAttack" />
-        <item itemvalue="JUnit.MarineTest.canAttack" />
-        <item itemvalue="JUnit.GodzillaTest.canAttack" />
-        <item itemvalue="JUnit.ArmyTest.canAttack" />
+        <item itemvalue="JUnit.ArmyTest.canGetAnAttackValue" />
+        <item itemvalue="JUnit.MarineTest.canGetAnAttackValue" />
+        <item itemvalue="JUnit.MarineTest.canSetHealthValue" />
+        <item itemvalue="JUnit.ArmyTest.canSetHealthValue" />
       </list>
     </recent_temporary>
   </component>
@@ -395,35 +426,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MarineTest - 2018.11.20 at 16h 25m 28s.xml">
-      <configuration name="MarineTest" configurationId="JUnit" />
+    <history-entry file="GodzillaTest_canSetHealthValue - 2018.11.21 at 09h 40m 45s.xml">
+      <configuration name="GodzillaTest.canSetHealthValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArmyTest - 2018.11.20 at 16h 28m 55s.xml">
-      <configuration name="ArmyTest" configurationId="JUnit" />
+    <history-entry file="GodzillaTest - 2018.11.21 at 09h 42m 52s.xml">
+      <configuration name="GodzillaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArmyTest_canTakeDamage - 2018.11.20 at 17h 00m 52s.xml">
-      <configuration name="ArmyTest.canTakeDamage" configurationId="JUnit" />
+    <history-entry file="GhidorahTest_canSetHealthValue - 2018.11.21 at 09h 44m 43s.xml">
+      <configuration name="GhidorahTest.canSetHealthValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArmyTest_canTakeDamage - 2018.11.20 at 17h 01m 36s.xml">
-      <configuration name="ArmyTest.canTakeDamage" configurationId="JUnit" />
+    <history-entry file="GhidorahTest_canSetAttackValue - 2018.11.21 at 09h 44m 50s.xml">
+      <configuration name="GhidorahTest.canSetAttackValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MarineTest - 2018.11.20 at 17h 04m 31s.xml">
-      <configuration name="MarineTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_Inheritance_and_polymorphism_kaiju - 2018.11.20 at 17h 04m 48s.xml">
+    <history-entry file="All_in_Inheritance_and_polymorphism_kaiju - 2018.11.21 at 09h 45m 10s.xml">
       <configuration name="All in Inheritance_and_polymorphism_kaiju" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArmyTest_canAttack - 2018.11.20 at 17h 29m 47s.xml">
-      <configuration name="ArmyTest.canAttack" configurationId="JUnit" />
+    <history-entry file="ArmyTest_canSetHealthValue - 2018.11.21 at 09h 50m 21s.xml">
+      <configuration name="ArmyTest.canSetHealthValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MarineTest_canAttack - 2018.11.20 at 17h 29m 55s.xml">
-      <configuration name="MarineTest.canAttack" configurationId="JUnit" />
+    <history-entry file="MarineTest_canSetHealthValue - 2018.11.21 at 09h 51m 09s.xml">
+      <configuration name="MarineTest.canSetHealthValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GodzillaTest_canAttack - 2018.11.20 at 17h 55m 34s.xml">
-      <configuration name="GodzillaTest.canAttack" configurationId="JUnit" />
+    <history-entry file="MarineTest_canGetAnAttackValue - 2018.11.21 at 09h 52m 04s.xml">
+      <configuration name="MarineTest.canGetAnAttackValue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GodzillaTest_canAttack - 2018.11.20 at 17h 56m 48s.xml">
-      <configuration name="GodzillaTest.canAttack" configurationId="JUnit" />
+    <history-entry file="ArmyTest_canGetAnAttackValue - 2018.11.21 at 09h 52m 33s.xml">
+      <configuration name="ArmyTest.canGetAnAttackValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Inheritance_and_polymorphism_kaiju - 2018.11.21 at 09h 52m 41s.xml">
+      <configuration name="All in Inheritance_and_polymorphism_kaiju" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -443,13 +474,13 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32986626" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32986626" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32986626" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32986626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -475,10 +506,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IAttack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IDamage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Godzilla.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ghidorah.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="32" selection-start-line="32" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Army.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Marine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Kaiju.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        <state relative-caret-position="254">
+          <caret line="42" selection-start-line="42" selection-end-line="44" selection-end-column="5" />
           <folding>
             <element signature="e#386#387#0" expanded="true" />
             <element signature="e#413#414#0" expanded="true" />
@@ -490,55 +592,26 @@
             <element signature="e#609#610#0" expanded="true" />
             <element signature="e#660#661#0" expanded="true" />
             <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding>
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ghidorah.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IAttack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ArmyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="31" selection-start-line="31" selection-start-column="2" selection-end-line="35" selection-end-column="7" />
+        <state relative-caret-position="119">
+          <caret line="36" selection-start-line="36" selection-start-column="2" selection-end-line="40" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#240#241#0" expanded="true" />
             <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
             <element signature="e#413#414#0" expanded="true" />
             <element signature="e#468#469#0" expanded="true" />
           </folding>
@@ -547,31 +620,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GhidorahTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+        <state relative-caret-position="164">
+          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#430#431#0" expanded="true" />
             <element signature="e#495#496#0" expanded="true" />
             <element signature="e#544#545#0" expanded="true" />
             <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IDamage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GodzillaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-301">
-          <caret line="11" column="70" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="70" />
+        <state relative-caret-position="74">
+          <caret line="46" selection-start-line="46" selection-start-column="2" selection-end-line="50" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#322#323#0" expanded="true" />
@@ -580,63 +644,22 @@
             <element signature="e#490#491#0" expanded="true" />
             <element signature="e#539#540#0" expanded="true" />
             <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-            <element signature="e#1092#1093#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Marine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Godzilla.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Army.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MarineTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        <state relative-caret-position="119">
+          <caret line="35" selection-start-line="35" selection-start-column="2" selection-end-line="39" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
           </folding>
         </state>
       </provider>

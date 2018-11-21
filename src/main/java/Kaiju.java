@@ -31,4 +31,16 @@ public abstract class Kaiju {
     public void setHealthValue(int healthValue) {
         this.healthValue = healthValue;
     }
+
+    public void setAttackValue(int attackValue) {
+        this.attackValue = attackValue;
+    }
+
+    public void attack(IDamage damaged) {
+        damaged.takeDamage(this.getAttackValue());
+    }
+
+    public void takeDamage(int damage) {
+        this.healthValue -= damage;
+    }
 }

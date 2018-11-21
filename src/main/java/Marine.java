@@ -4,11 +4,5 @@ public class Marine extends Vehicle {
         super(type, healthValue, attackValue);
     }
 
-    public int takeDamage(int damage) {
-        return super.getHealthValue() - damage;
-    }
 
-    public void attack(IDamage damaged) {
-        damaged.takeDamage(this.getAttackValue());
-    }
 }

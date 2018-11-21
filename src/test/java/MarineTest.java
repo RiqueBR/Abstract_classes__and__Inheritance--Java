@@ -18,15 +18,26 @@ public class MarineTest {
     }
 
     @Test
+    public void canGetAnAttackValue() {
+        assertEquals(40, marine.getAttackValue());
+    }
+
+    @Test
     public void canGetAHealthValue() {
         assertEquals(70, marine.getHealthValue());
     }
 
     @Test
-    public void canTakeDamage() {
-        marine.setHealthValue(marine.takeDamage(10));
-        assertEquals(60,  marine.getHealthValue());
+    public void canSetHealthValue() {
+        marine.setHealthValue(100);
+        assertEquals(100, marine.getHealthValue());
     }
+
+//    @Test
+//    public void canTakeDamage() {
+//        marine.setHealthValue(marine.takeDamage(10));
+//        assertEquals(60,  marine.getHealthValue());
+//    }
 
     @Test
     public void canAttack() {

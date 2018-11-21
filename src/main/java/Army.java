@@ -5,11 +5,5 @@ public class Army extends Vehicle implements IDamage{
         super(type, healthValue, attackValue);
     }
 
-    public int takeDamage(int damage) {
-        return super.getHealthValue() - damage;
-    }
 
-    public void attack(IDamage damage) {
-        damage.takeDamage(super.getAttackValue());
-    }
 }

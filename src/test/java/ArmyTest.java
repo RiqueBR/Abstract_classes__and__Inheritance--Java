@@ -19,15 +19,26 @@ public class ArmyTest {
     }
 
     @Test
+    public void canGetAnAttackValue() {
+        assertEquals(30, army.getAttackValue());
+    }
+
+    @Test
     public void canGetHealthValue() {
         assertEquals(50, army.getHealthValue());
     }
 
     @Test
-    public void canTakeDamage() {
-        army.setHealthValue(army.takeDamage(10));
-        assertEquals(40, army.getHealthValue());
+    public void canSetHealthValue() {
+        army.setHealthValue(70);
+        assertEquals(70, army.getHealthValue());
     }
+
+//    @Test
+//    public void canTakeDamage() {
+//        army.setHealthValue(army.takeDamage(10));
+//        assertEquals(40, army.getHealthValue());
+//    }
 
     @Test
     public void canAttack() {

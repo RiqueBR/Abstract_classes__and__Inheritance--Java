@@ -25,4 +25,12 @@ public abstract class Vehicle {
     public int getAttackValue() {
         return attackValue;
     }
+
+    public void attack(IDamage damaged) {
+        damaged.takeDamage(this.getAttackValue());
+    }
+
+    public void takeDamage(int damage) {
+        this.healthValue -= damage;
+    }
 }

@@ -1,4 +1,4 @@
 public interface IAttack extends IDamage{
 
-    void attack(IDamage damage);
+    void attack(IDamage damaged);
 }

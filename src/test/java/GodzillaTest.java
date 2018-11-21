@@ -28,15 +28,27 @@ public class GodzillaTest {
     }
 
     @Test
+    public void canSetHealthValue(){
+        godzilla.setHealthValue(150);
+        assertEquals(150, godzilla.getHealthValue());
+    }
+
+    @Test
     public void canGetAttackValue() {
         assertEquals(200, godzilla.getAttackValue());
     }
 
     @Test
-    public void canTakeDamage() {
-        godzilla.setHealthValue(godzilla.takeDamage(30));
-        assertEquals(70, godzilla.getHealthValue());
+    public void canSetAttackValue() {
+        godzilla.setAttackValue(180);
+        assertEquals(180, godzilla.getAttackValue());
     }
+
+//    @Test
+//    public void canTakeDamage() {
+//        godzilla.setHealthValue(godzilla.takeDamage(30));
+//        assertEquals(70, godzilla.getHealthValue());
+//    }
 
     @Test
     public void canAttack() {
